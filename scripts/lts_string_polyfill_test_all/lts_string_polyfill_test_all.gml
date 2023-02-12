@@ -18,6 +18,9 @@ function lts_string_polyfill_test_all() {
 	lts_string_polyfill_test_string_split();
 	lts_string_polyfill_test_string_split_ext();
 	lts_string_polyfill_test_string_starts_with();
+	lts_string_polyfill_test_string_trim();
+	lts_string_polyfill_test_string_trim_end();
+	lts_string_polyfill_test_string_trim_start();
 	/* ^ Tests here ^ */
 	
 	timeB = current_time;
