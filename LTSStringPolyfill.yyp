@@ -10,6 +10,7 @@
     {"id":{"name":"lts_string_polyfill_test_string_ext","path":"scripts/lts_string_polyfill_test_string_ext/lts_string_polyfill_test_string_ext.yy",},"order":13,},
     {"id":{"name":"__GMA_SETTINGS__","path":"scripts/__GMA_SETTINGS__/__GMA_SETTINGS__.yy",},"order":1,},
     {"id":{"name":"lts_string_polyfill_test_string_concat_ext","path":"scripts/lts_string_polyfill_test_string_concat_ext/lts_string_polyfill_test_string_concat_ext.yy",},"order":11,},
+    {"id":{"name":"show_debug_message_ext","path":"scripts/show_debug_message_ext/show_debug_message_ext.yy",},"order":4,},
     {"id":{"name":"lts_string_polyfill_test_string_ends_with","path":"scripts/lts_string_polyfill_test_string_ends_with/lts_string_polyfill_test_string_ends_with.yy",},"order":12,},
     {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
     {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},"order":0,},
