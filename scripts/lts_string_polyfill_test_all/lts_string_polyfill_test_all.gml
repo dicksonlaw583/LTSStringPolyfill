@@ -13,6 +13,7 @@ function lts_string_polyfill_test_all() {
 	lts_string_polyfill_test_string_ends_with();
 	lts_string_polyfill_test_string_ext();
 	lts_string_polyfill_test_string_foreach();
+	lts_string_polyfill_test_string_join();
 	/* ^ Tests here ^ */
 	
 	timeB = current_time;

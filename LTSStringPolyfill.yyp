@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "LTSStringPolyfill",
   "resources": [
+    {"id":{"name":"string_join","path":"scripts/string_join/string_join.yy",},"order":6,},
     {"id":{"name":"string_ext","path":"scripts/string_ext/string_ext.yy",},"order":3,},
     {"id":{"name":"lts_string_polyfill_test_string_concat","path":"scripts/lts_string_polyfill_test_string_concat/lts_string_polyfill_test_string_concat.yy",},"order":10,},
     {"id":{"name":"LTSStringPolyfill_TestSpy","path":"scripts/LTSStringPolyfill_TestSpy/LTSStringPolyfill_TestSpy.yy",},"order":9,},
@@ -12,6 +13,7 @@
     {"id":{"name":"lts_string_polyfill_test_string_concat_ext","path":"scripts/lts_string_polyfill_test_string_concat_ext/lts_string_polyfill_test_string_concat_ext.yy",},"order":11,},
     {"id":{"name":"string_foreach","path":"scripts/string_foreach/string_foreach.yy",},"order":5,},
     {"id":{"name":"show_debug_message_ext","path":"scripts/show_debug_message_ext/show_debug_message_ext.yy",},"order":4,},
+    {"id":{"name":"lts_string_polyfill_test_string_join","path":"scripts/lts_string_polyfill_test_string_join/lts_string_polyfill_test_string_join.yy",},"order":15,},
     {"id":{"name":"lts_string_polyfill_test_string_ends_with","path":"scripts/lts_string_polyfill_test_string_ends_with/lts_string_polyfill_test_string_ends_with.yy",},"order":12,},
     {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
     {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},"order":0,},
