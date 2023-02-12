@@ -5,8 +5,10 @@
   "resources": [
     {"id":{"name":"lts_string_polyfill_test_string_concat","path":"scripts/lts_string_polyfill_test_string_concat/lts_string_polyfill_test_string_concat.yy",},"order":10,},
     {"id":{"name":"LTSStringPolyfill_TestSpy","path":"scripts/LTSStringPolyfill_TestSpy/LTSStringPolyfill_TestSpy.yy",},"order":9,},
+    {"id":{"name":"string_ends_with","path":"scripts/string_ends_with/string_ends_with.yy",},"order":2,},
     {"id":{"name":"__GMA_SETTINGS__","path":"scripts/__GMA_SETTINGS__/__GMA_SETTINGS__.yy",},"order":1,},
     {"id":{"name":"lts_string_polyfill_test_string_concat_ext","path":"scripts/lts_string_polyfill_test_string_concat_ext/lts_string_polyfill_test_string_concat_ext.yy",},"order":11,},
+    {"id":{"name":"lts_string_polyfill_test_string_ends_with","path":"scripts/lts_string_polyfill_test_string_ends_with/lts_string_polyfill_test_string_ends_with.yy",},"order":12,},
     {"id":{"name":"GMAssert","path":"extensions/GMAssert/GMAssert.yy",},"order":0,},
     {"id":{"name":"__GMA_BREAKPOINT__","path":"scripts/__GMA_BREAKPOINT__/__GMA_BREAKPOINT__.yy",},"order":0,},
     {"id":{"name":"string_concat","path":"scripts/string_concat/string_concat.yy",},"order":0,},

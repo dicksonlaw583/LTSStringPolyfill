@@ -10,6 +10,7 @@ function lts_string_polyfill_test_all() {
 	/* v Tests here v */
 	lts_string_polyfill_test_string_concat();
 	lts_string_polyfill_test_string_concat_ext();
+	lts_string_polyfill_test_string_ends_with();
 	/* ^ Tests here ^ */
 	
 	timeB = current_time;
